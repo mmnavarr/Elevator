@@ -1,0 +1,11 @@
+/Users/malcolmnavarro/code/sandbox/Elevator/obj/Debug/netcoreapp3.0/Elevator.csprojAssemblyReference.cache
+/Users/malcolmnavarro/code/sandbox/Elevator/obj/Debug/netcoreapp3.0/Elevator.AssemblyInfoInputs.cache
+/Users/malcolmnavarro/code/sandbox/Elevator/obj/Debug/netcoreapp3.0/Elevator.AssemblyInfo.cs
+/Users/malcolmnavarro/code/sandbox/Elevator/bin/Debug/netcoreapp3.0/Elevator
+/Users/malcolmnavarro/code/sandbox/Elevator/bin/Debug/netcoreapp3.0/Elevator.deps.json
+/Users/malcolmnavarro/code/sandbox/Elevator/bin/Debug/netcoreapp3.0/Elevator.runtimeconfig.json
+/Users/malcolmnavarro/code/sandbox/Elevator/bin/Debug/netcoreapp3.0/Elevator.runtimeconfig.dev.json
+/Users/malcolmnavarro/code/sandbox/Elevator/bin/Debug/netcoreapp3.0/Elevator.dll
+/Users/malcolmnavarro/code/sandbox/Elevator/bin/Debug/netcoreapp3.0/Elevator.pdb
+/Users/malcolmnavarro/code/sandbox/Elevator/obj/Debug/netcoreapp3.0/Elevator.dll
+/Users/malcolmnavarro/code/sandbox/Elevator/obj/Debug/netcoreapp3.0/Elevator.pdb
